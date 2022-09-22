@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<title>Coming Soon</title>
+		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+Indic+Siyaq+Numbers&amp;display=swap">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;display=swap">
+		<link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/DG---BS5-Countdown.css">
+		<link rel="stylesheet" href="assets/css/DG---Button-Hover-Effects.css">
+	</head>
+
+	<body class="d-flex h-100 text-center text-white" style="background: #0091B4;">
+		<div class="container d-flex w-100 h-100 p-3 mx-auto flex-column">
+			<div class="row">
+				<div class="col-md-12 mt-6"><img class="img-fluid" src="assets/img/pic3.gif" style="max-width: 350px;></div>
+				<div class="col-12 col-md-12 col-xl-12 offset-xl-0">
+					<div id="countdown">
+						<ul class="list-unstyled d-flex flex-row" style="max-width: 700px;">
+							<li style="font-size: 69px;"><span id="days" class="span" style="font-size: 50px;">00</span><span class="d-flex justify-content-center fs-5 fs-lg-1">วัน</span></li>
+							<li style="font-size: 69px;"><span id="hours" class="span" style="font-size: 50px;">00</span><span class="d-flex justify-content-center fs-5 fs-lg-1">ชั่วโมง</span></li>
+							<li style="font-size: 69px;"><span id="minutes" class="span" style="font-size: 50px;">00</span><span class="d-flex justify-content-center fs-5 fs-lg-1">นาที</span></li>
+							<li style="font-size: 69px;"><span id="seconds" class="span" style="font-size: 50px;">00</span><span class="d-flex justify-content-center fs-5 fs-lg-1">วินาที</span></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-12 mt-5">
+					<h1 style="font-size: 50px;">เวลาสำหรับส่งงาน<br>อ.ชลธี เมืองมา</h1>
+					<p class="mt-4" style="font-size: 21px;">ส่งงานได้ถึงวันที่ 16 กันยายน 2565 <br>ทั้งสมุด หนังสือ  และออนไลน์</p>
+					<a class="btn btn-lg button fs-4 mt-3" role="button" href="https://script.google.com/a/macros/nakai.ac.th/s/AKfycbzS8tVLiNNkzxUYfXTCKwu9rLCqIJ6Fzm9ZvZwMS7csTKBILqNq34x1ZaJDL_mIayMD/exec" target="_blank">เช็คงาน</a>
+					<a class="btn btn-lg button fs-4 mt-3" role="button" href="https://script.google.com/a/macros/nakai.ac.th/s/AKfycbzdzQ22u8W6ZyrGWSXpRMPa9pjkXef6ekMy-7b1YMDtdmMwe_LBcLq1G5UNhlEhF6zQ/exec" target="_blank">ส่งงาน</a>
+				</div>
+				<!--<div class="col-md-12 mt-3" style="font-size: 34px;"><i class="fa fa-facebook"></i><i class="fa fa-twitter mx-3"></i><i class="fa fa-linkedin-square"></i></div>-->
+				<div>
+				<br>
+				<h6>2022 copying Edit by M.CHONLATEE</h6>				
+				</div>
+			</div>
+		</div>
+		<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+		<script src="assets/js/DG---BS5-Countdown.js"></script>
+	</body>
+
+</html>

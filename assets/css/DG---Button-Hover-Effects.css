@@ -1,0 +1,36 @@
+* {
+  margin: 0px auto;
+  padding: 0px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.button:hover {
+  background: #06f0bd;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+  transform: scale(1.25);
+  color: var(--bs-dark);
+}
+
+.button {
+  background: var(--bs-yellow);
+  width: 200px;
+  border-radius: 20px;
+  color: var(--bs-dark);
+}
+
+.btn-check:active + .btn-primary, .btn-check:checked + .btn-primary, .btn-primary.active, .btn-primary:active, .show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #e8b10b;
+  border-color: #0a53be;
+}
+
+.btn-check:focus + .btn-primary, .btn-primary:focus {
+  color: var(--bs-dark);
+  background-color: #e8b10b;
+  border-color: #0a58ca;
+  box-shadow: 0 0 0 .25rem rgba(49,132,253,.5);
+}
+

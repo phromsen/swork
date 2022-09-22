@@ -1,0 +1,11 @@
+* {
+  margin: 0px auto;
+  padding: 0px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  max-width: 960px;
+}
+
