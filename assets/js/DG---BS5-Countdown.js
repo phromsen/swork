@@ -8,7 +8,7 @@
       mm = String(today.getMonth() + 1).padStart(2, "0"),
       yyyy = today.getFullYear(),
       nextYear = yyyy + 1,
-      dayMonth = "02/16/",
+      dayMonth = "02/15/",
       Endtime = dayMonth + yyyy;
   
   today = mm + "/" + dd + "/" + yyyy;
